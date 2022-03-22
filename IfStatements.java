@@ -25,6 +25,10 @@ public class IfStatements {
 	    }
 	    else {
 	    	System.out.println("Both the name are not same "+FirstName+" "+Org);
+
+
+
+hi vishal
 	    }
 	}
 	
